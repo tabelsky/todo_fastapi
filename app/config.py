@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import os
 
 POSTGRES_DB = os.getenv("POSTGRES_DB", "app")
